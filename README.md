@@ -1,9 +1,9 @@
-# market_website_refactor
+# seo_market_refactor
 Week 1 challenge 
 
-# Market Website Refactor
+# Seo_Market_Refactor
 
-The project is for completing challenge Week 1 for Front End Developer Boot camp.
+The project is for completing challenge Week 1 for the Front End Developer Boot camp.
 
 
 ## Project Description
@@ -48,7 +48,7 @@ Feel free to reach out to me if you have any questions or are interested in coll
 GitHub: https://github.com/tigerkaplan
 Email: husniyeerparun@gmail.com
 
-I'm always open to discussions, suggestions to make this project even better.
+I'm always open to discussions, and suggestions to make this project even better.
 ## Related Projects
 
 The repository is an integral part of our 16-week frontend boot camp. Depending on the project's needs, there may be some updates and adjustments required in the future.
